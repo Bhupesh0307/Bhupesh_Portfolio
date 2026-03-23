@@ -156,6 +156,17 @@ const workExperiences = {
       ]
     },
     {
+  role: "Business Analyst Intern",
+  company: "UV Netware",
+  companylogo: require("./assets/images/uvnetware_logo.jpeg"),
+  date: "May 2025 – Jul 2025",
+  desc: "Completed a 2-month internship as a Business Analyst Intern, working closely with product and development teams to analyze business requirements, document workflows, and support data-driven decision making. Gained practical exposure to requirement gathering, stakeholder communication, and translating business needs into technical specifications:",
+  descBullets: [
+    " Requirement Analysis: Gathered and documented business requirements, created user stories, and assisted in preparing functional requirement documents (FRDs) for product features.",
+    " Data & Process Analysis: Analyzed datasets and business workflows to identify improvement areas, prepared reports and dashboards, and supported teams in making data-driven product decisions."
+  ]
+},
+    {
       role: "Artist and Operations Head",
       company: "Vivacity",
       companylogo: require("./assets/images/cropped_circle_image (1).png"),
